@@ -1,4 +1,4 @@
-# Tutorial- 1
+# Tutorial- 2
 
 Angular Tutorial: node version: v18.18.1
 npm version: 10.9.2
@@ -29,3 +29,9 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+Tutorial-2:
+ng commands:
+ to create components - ng generate component pages/contacts
+ to add buttons/icons- ng add @angular/material   
+ to create services- ng generate service services/product
